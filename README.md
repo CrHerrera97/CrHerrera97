@@ -1,7 +1,5 @@
 # Hola, soy Christian Herrera
 
-![Imagen o Avatar](URL_de_la_Imagen)
-
 ## Acerca de Mí
 
 Apasionado por la tecnología con grandes habilidades en el desarrollo de sistemas en el apartado Web, con experiencia en PHP en el lado del Backend, bases de datos MySql. Uso de Git como principal VCS. Mi objetivo es poder cumplir los requerimientos del cliente y la entrega de los mismos con resultados de excelencia y calidad
@@ -20,10 +18,6 @@ Apasionado por la tecnología con grandes habilidades en el desarrollo de sistem
 - **Correo Electrónico:** cristianxp2221@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/herrera-christian/
 - **Telefono: +57 3154031627
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CrHerrera97&show_icons=true)
 
 ## Contribuciones y Proyectos Destacados
 
