@@ -4,37 +4,28 @@
 
 ## Acerca de Mí
 
-Breve descripción sobre quién eres, tus intereses, tu profesión y cualquier otra información relevante.
+Apasionado por la tecnología con grandes habilidades en el desarrollo de sistemas en el apartado Web, con experiencia en PHP en el lado del Backend, bases de datos MySql. Uso de Git como principal VCS. Mi objetivo es poder cumplir los requerimientos del cliente y la entrega de los mismos con resultados de excelencia y calidad
 
 ## Mis Habilidades
 
-- Enumera tus habilidades clave, como programación, diseño, análisis de datos, etc.
-- Puedes usar una lista con viñetas o una tabla para organizarlas.
-
-## Mis Proyectos Destacados
-
-- [Nombre del Proyecto 1](Enlace al Proyecto 1): Una breve descripción del proyecto y su relevancia.
-- [Nombre del Proyecto 2](Enlace al Proyecto 2): Otra descripción breve y su relevancia.
-
-## Colaboración
-
-Estoy interesado en colaborar en proyectos relacionados con [menciona tus áreas de interés], así que no dudes en ponerte en contacto conmigo si tienes una idea o proyecto en mente.
+- Desarrollo de aplicaciones web con lenguaje de programación php, framework laravel
+- Backend developer javascript, RDBMS (bases de datos relacionales), manejo de VCS con git, desarrollo de app en VBA (visual basic for apps)
+- Consumo Apis, peticiones Asincronas AJAX
+- Frontend developer con Jquery, Bootstrap
+- Creaciones de aplicaciones en Java (android)
+- Manejo de aplicaciones cloud con Aws
 
 ## Cómo Contactarme
 
-- **Correo Electrónico:** [Tu dirección de correo electrónico]
-- **LinkedIn:** [Tu perfil de LinkedIn]
-- **Twitter:** [Tu cuenta de Twitter]
-- **Sitio Web/Blog:** [Enlace a tu sitio web o blog, si lo tienes]
+- **Correo Electrónico:** cristianxp2221@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/herrera-christian/
+- **Telefono: +57 3154031627
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CrHerrera97&show_icons=true)
 
 ## Contribuciones y Proyectos Destacados
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact)](https://github.com/TU_NOMBRE_DE_USUARIO)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=CrHerrera97&layout=compact)](https://github.com/CrHerrera97)
 
-## Agradecimientos
-
-Si quieres agradecer a alguien o mencionar proyectos que te han inspirado, puedes hacerlo aquí.
