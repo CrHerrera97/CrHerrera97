@@ -17,7 +17,7 @@ Apasionado por la tecnología con grandes habilidades en el desarrollo de sistem
 
 - **Correo Electrónico:** cristianxp2221@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/herrera-christian/
-- **Telefono: +57 3154031627
+- **Telefono:** +57 3154031627
 
 ## Contribuciones y Proyectos Destacados
 
