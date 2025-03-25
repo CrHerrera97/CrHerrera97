@@ -18,8 +18,3 @@ Apasionado por la tecnología con grandes habilidades en el desarrollo de sistem
 - **Correo Electrónico:** cristianxp2221@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/herrera-christian/
 - **Telefono:** +57 3154031627
-
-## Contribuciones y Proyectos Destacados
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=CrHerrera97&layout=compact)](https://github.com/CrHerrera97)
-
