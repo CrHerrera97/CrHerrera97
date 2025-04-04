@@ -2,7 +2,8 @@
 
 ## Acerca de Mí
 
-Apasionado por la tecnología con grandes habilidades en el desarrollo de sistemas en el apartado Web, con experiencia en PHP en el lado del Backend, bases de datos MySql. Uso de Git como principal VCS. Mi objetivo es poder cumplir los requerimientos del cliente y la entrega de los mismos con resultados de excelencia y calidad
+Apasionado por la tecnología y la automatización, con experiencia en el desarrollo e integración de sistemas para mejorar la eficiencia empresarial. Me especializo en desarrollo web, automatización de procesos y despliegue de microservicios, asegurando soluciones escalables y de alto rendimiento.
+
 
 ## Mis Habilidades
 
