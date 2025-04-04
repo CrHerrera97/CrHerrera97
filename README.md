@@ -7,12 +7,11 @@ Apasionado por la tecnología y la automatización, con experiencia en el desarr
 
 ## Mis Habilidades
 
-- Desarrollo de aplicaciones web con lenguaje de programación php, framework laravel
-- Backend developer javascript, RDBMS (bases de datos relacionales), manejo de VCS con git, desarrollo de app en VBA (visual basic for apps)
-- Consumo Apis, peticiones Asincronas AJAX
-- Frontend developer con Jquery, Bootstrap
-- Creaciones de aplicaciones en Java (android)
-- Manejo de aplicaciones cloud con Aws
+- Desarrollo y automatización de software: Creación y optimización de microservicios, automatización de procesos y desarrollo de aplicaciones empresariales.
+- Backend y bases de datos: Desarrollo con JavaScript, Groovy y Node.js; gestión de bases de datos relacionales (MySQL, PostgreSQL, SQL Server) y NoSQL (MongoDB).
+- Desarrollo y consumo de APIs: Creación de APIs REST y microservicios escalables, manejo de peticiones asíncronas, autenticación y control de acceso.
+- Frontend y experiencia de usuario: Desarrollo con JavaScript, React y tecnologías web modernas.
+- ERP y sistemas empresariales: Implementación y mantenimiento de módulos en JD Edwards y Siesa, integración de conectores y optimización de procesos.
 
 ## Cómo Contactarme
 
